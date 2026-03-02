@@ -1,4 +1,4 @@
-# 260204-MuleclassReference
+# 260302 - Topic Center
 
 Shared information document for students in Mulesoft MSA001 workshop
 
@@ -8,8 +8,8 @@ Instructor email: vlowe@salesforce.com
 
 ---
 
-VM login: https://use.cloudshare.com/Class/COdERsbDZ6BguMKeRf7PUhOQ2
+VM login: https://use.cloudshare.com/Class/5kvde
 
-VM Passphrase: Robin the Yellow Yak
+VM Passphrase: Vikram the Anticipating Dolphin
 
 This repo contains copies of the student files used in the labs
